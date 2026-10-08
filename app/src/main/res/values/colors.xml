@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- App Design System -->
+    <color name="app_background">#09090B</color>
+    <color name="app_surface">#111113</color>
+    <color name="app_surface_focused">#15151A</color>
+
+    <color name="app_primary">#5865F2</color>
+
+    <color name="app_text_primary">#F7F7F8</color>
+    <color name="app_text_secondary">#8B8B93</color>
+    <color name="app_text_hint">#7C8CFF</color>
+
+    <color name="app_input_border">#222227</color>
+    <color name="app_input_border_focused">#5865F2</color>
+    <color name="app_divider">#25252A</color>
+</resources>

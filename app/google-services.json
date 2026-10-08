@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19882782360",
+    "project_id": "chiyeuminhem-eaafe",
+    "storage_bucket": "chiyeuminhem-eaafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19882782360:android:8b07c106c442d58f866aed",
+        "android_client_info": {
+          "package_name": "com.hoduongtien.chiyeuminhem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DOs9nfmG4Grl5r-z8dGwMsRSVpyr_3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
